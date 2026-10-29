@@ -16,13 +16,13 @@
     "@tailwindcss/postcss": "^4.3.2",
     "@vercel/analytics": "^2.0.1",
     "@vercel/speed-insights": "^2.0.0",
-    "next": "16.3.8",
+    "next": "16.4.1",
     "react": "19.2.7",
     "react-dom": "19.2.7",
     "server-only": "^0.0.1",
     "simple-icons": "^16.25.0",
     "tailwindcss": "^4.3.2",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^25.9.4",
@@ -34,7 +34,7 @@
     "jiti": "^2.7.0",
     "skills": "^1.5.15",
     "typescript": "^6.0.3",
-    "vite-plus": "^0.1.24"
+    "vite-plus": "^1.4.0"
   },
   "engines": {
     "node": ">=24.15.0"
